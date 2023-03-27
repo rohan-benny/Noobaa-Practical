@@ -28,4 +28,4 @@ Noobaa is a data service over hybrid and multicloud environments. It runs over K
 It is used by oraganization whose data is stored across different platforms and manage them. Also used by organizations who want to access the dtata of different departments store4d in different dtorage resources. It is also used by individuals who want to store data across multiple storage clouds and shits the data from one storage cloud to another.
 Eg:- TATA Motors use Noobaa for managing the data.
 
-### This is original document.
+### This is edited document.
